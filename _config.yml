@@ -1,4 +1,4 @@
-# Basic
+﻿# Basic
 title: 刘思蒙
 subtitle: 个人站
 description: 欢迎来到我的个人站~
@@ -15,7 +15,7 @@ comment:
 
 # Social
 social:
-    weibo: 尾狐可儿  
+    #weibo:   
     github: keerlsm
     # twitter: 
     mail: 947592653@qq.com
