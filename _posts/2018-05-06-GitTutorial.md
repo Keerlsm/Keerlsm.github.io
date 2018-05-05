@@ -73,17 +73,22 @@ Git支持多种协议，包括https，但通过ssh支持的原生git协议速度
 ### 分支管理
 
 Git鼓励大量使用分支：
+
 查看分支：`git branch`
+
 创建分支：`git branch <name>`
+
 切换分支：`git checkout <name>`
+
 创建+切换分支：`git checkout -b <name>`
+
 在本地创建和远程分支对应的分支，使用`git checkout -b branch-name origin/branch-name`，本地和远程分支的名称最好一致
+
 合并某分支到当前分支：`git merge <name>`
+
 删除分支：`git branch -d <name>`   
 
 
 
-<br>
-
-转载请注明：[刘思蒙的博客](keerlsm.github.io) » [点击阅读原文](http://keerlsm.github.io/2018/05/GitTutorial/)     
+ 
 
