@@ -93,4 +93,4 @@ Git鼓励大量使用分支：
  
 <br>
 
-转载请注明：[刘思蒙的博客](keerlsm.github.io) » [点击阅读原文](keerlsm.github.io/2018/05/GitTutorial/)   
+转载请注明：[刘思蒙的博客](http://keerlsm.github.io) » [点击阅读原文](http://keerlsm.github.io/2018/05/GitTutorial/)   
