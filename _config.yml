@@ -14,8 +14,8 @@ comment:
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
-
-    #weibo:   
+social:
+    weibo: 1832693337  
     github: keerlsm
     # twitter: 
     mail: 947592653@qq.com
